@@ -83,7 +83,23 @@ This project is licensed under the MIT License.
 This tool is intended for legal and ethical use. Unauthorized encryption or decryption of files without permission may be illegal in some jurisdictions.
 
 ## Output
+![Image](https://github.com/user-attachments/assets/6b29b85a-1747-469e-b743-dffb13f9803f)
 
+![Image](https://github.com/user-attachments/assets/d4181163-1401-4d8d-ab72-d16384c51b98)
+
+![Image](https://github.com/user-attachments/assets/d30375d8-190e-4af5-bbd2-457597d2ff19)
+
+![Image](https://github.com/user-attachments/assets/7342e91c-8690-4994-99e6-cd3dbbf8f9f7)
+
+![Image](https://github.com/user-attachments/assets/99447274-010c-457f-b443-820973d5af49)
+
+![Image](https://github.com/user-attachments/assets/635ed4cc-fc5d-46ec-afdc-d26411f6eade)
+
+![Image](https://github.com/user-attachments/assets/f8d81d98-fd25-475b-869b-4644daacc6f9)
+
+![Image](https://github.com/user-attachments/assets/b0a4fad4-91a3-4882-bc89-77ed3ca95ea2)
+
+![Image](https://github.com/user-attachments/assets/fd7a577c-d86c-4bf7-a63b-5e894cb802b5)
 
 
 
